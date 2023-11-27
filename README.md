@@ -19,7 +19,7 @@ Here are a few projects I'm proud of:
 
 ## 📈 GitHub Stats
 
-![Abhishek Jaiswar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-jaiswar&show_icons=true&count_private=true&hide=contribs&theme=dark)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-jaiswar&show_icons=true&count_private=true&hide=contribs&theme=dark)
 
 ## 📊 Weekly Coding Stats
 
