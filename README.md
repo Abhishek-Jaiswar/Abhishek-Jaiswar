@@ -1,6 +1,6 @@
-# Hi there, I'm Abhishek Jaiswar! 👋
+# Hello, I'm Abhishek Jaiswar! 👋
 
-I'm a passionate Full Stack Developer based in [Your Location]. With a strong background in [mention relevant technologies, frameworks, or languages], I love turning ideas into powerful and intuitive software.
+I'm a passionate Full Stack Developer based in Mumbai. With a strong background in React.js, Next.js, Three.js, Angular.js, I love turning ideas into powerful and intuitive software.
 
 ## 🔧 Technologies & Tools
 
@@ -13,8 +13,8 @@ I'm a passionate Full Stack Developer based in [Your Location]. With a strong ba
 
 Here are a few projects I'm proud of:
 
-1. **Project 1:** [Project Name](Link to project repository or live demo) - Brief description.
-2. **Project 2:** [Project Name](Link to project repository or live demo) - Brief description.
+1. **Project 1:** ZenBlog
+2. **Project 2:** CollegeSpace
    <!-- Add more projects as needed -->
 
 ## 📈 GitHub Stats
